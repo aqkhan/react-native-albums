@@ -1,0 +1,5 @@
+/__tests__
+/.idea
+/android
+/ios
+/node_modules
